@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import SingleProject from './SingleProject'
+import SingleProject from '../components/SingleProject'
 // @ is an alias to /src
 
 
