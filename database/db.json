@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": 1,
-      "title": "project title 1",
-      "detail": "project detail 1",
+      "title": "project title 1 update",
+      "detail": "Update again",
       "complete": false
     },
     {
@@ -17,12 +17,6 @@
       "detail": "asfsadf",
       "complete": false,
       "id": 4
-    },
-    {
-      "title": "h",
-      "detail": "fh",
-      "complete": false,
-      "id": 5
     }
   ]
 }
